@@ -60,7 +60,7 @@ exit 0
     os.system("echo '________________________________'")
     os.system("echo ' '")
     os.system("echo \"YOUR IP ADDRESS: `hostname -I | awk '{print $1}'`\"")
-    os.system("echo 'PORT: 1080'")
+    os.system("echo 'PORT: 3785'")
     os.system("echo 'LOGIN: %s'" % username)
     os.system("echo 'PASSWORD: %s'" % password_proxy)
 
