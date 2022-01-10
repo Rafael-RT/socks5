@@ -4,12 +4,12 @@ proxy socks5 python script install for server
 
 instruction
 
-    upload file to server
-    wget https://raw.githubusercontent.com/Rafael-RT/socks5/main/proxy.py
+   1. upload file to server
+   wget https://raw.githubusercontent.com/Rafael-RT/socks5/main/proxy.py
 
-    run
+   2. run
     python proxy.py
 
-    type your password for proxy
+   3. type your password for proxy
 
-    wait for the installation to complete
+   wait for the installation to complete
